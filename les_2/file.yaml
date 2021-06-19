@@ -1,0 +1,9 @@
+currency_signs:
+  BITCOIN_SIGN: ₿
+  DOLLAR_SIGN: $
+  RUBLE_SIGN: ₽
+integer: 84
+list:
+- 3
+- 6
+- 7
